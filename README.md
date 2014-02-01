@@ -7,8 +7,11 @@ Bolme, David. Beveridge, J. Drapper, Bruce and Lui Yui. **Visual Object Tracking
 * **Implementation by:**
 
 \* Alberto Quintero Delgado <ajquinterod@gmail.com>
+
 \* Deray Jeremie <deray.jeremie@gmail.com>
 
 Master in Computer Vision
+
 University of Burgundy
+
 January 2014
